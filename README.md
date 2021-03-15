@@ -16,3 +16,6 @@ Images of a clinic, a house, another house and some restoration projects, each o
 
 For now will probably be basic contact information for the designer, but perhaps also a contact form to send messages and customer contact info.
 
+### Montserrat was chosen as the font for the page, and some colours based on the Farrow and Ball website. 
+
+The colours were a bit too dark and bronzeish on the computer. 
