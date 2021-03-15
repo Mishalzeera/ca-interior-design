@@ -1,0 +1,31 @@
+/* --------------Global Styles */
+
+body {    
+    background-color: #E0D5BD; 
+    /* color: #535353; */
+    color: #444546;   
+}
+
+/* body {
+    background-color: #DFD6CB;
+    color: #3D4557;
+} */
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+/* ------------------------Nav */
+
+nav li {
+    display: inline;
+    list-style-type: none;     
+    margin-right: 2%;
+}
+
+nav a {
+    color: #444546; 
+    text-decoration: none;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+}
