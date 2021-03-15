@@ -1,11 +1,5 @@
 /* --------------Global Styles */
 
-/* body {      */
-    /* background-color: #E0D5BD;  */
-    /* color: #535353; */
-    /* color: #444546;    */
-   
-/* } */
 
 body {
     background-color: #DFD6CB;
@@ -65,7 +59,7 @@ nav ul {
 
 .body-content {
     max-width: 60%;
-    display: block;
+    /* display: block; */
     margin: 1.5rem auto;
 }
 
@@ -74,13 +68,11 @@ nav ul {
 footer {
     background-color: #3D4557;    
     text-align: center;
-    padding: 1.5rem;
-    position:absolute;
+    padding: 2rem;
+    position: absolute;
     width:100%;
     bottom:0px;
-    
-    
-}
+    }
 
 
 
@@ -95,3 +87,4 @@ footer a:hover {
     font-size: large;
     padding: 3rem;
 }
+
