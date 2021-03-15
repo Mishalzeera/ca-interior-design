@@ -1,0 +1,28 @@
+body {
+background-color: rgb(119, 219, 218);
+color: black;
+}
+
+h1,
+p {
+    max-width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.lato-test {
+    font-family: "Lato", sans-serif;
+}
+
+.inter-test {
+    font-family: "Inter", sans-serif;
+}
+
+.libre-franklin-test {
+    font-family: "Libre Franklin", sans-serif;
+}
+
+.montserrat-test {
+    font-family: "Montserrat", sans-serif;
+}
