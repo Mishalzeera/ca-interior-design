@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: #DFD6CB;
+    background-color: rgba(223, 214, 203, 0.5);
     color: #3D4557;
 }
 
@@ -15,6 +15,7 @@ h2,
 p {
     text-align: center;
 }
+
 
 /* p {
     color: black;
@@ -53,6 +54,11 @@ nav ul {
     text-align: center;
 }
 
+.active {
+    text-decoration: underline;
+    opacity: .9;
+}
+
 /* ----------------------Header */
 
 .heading-title {
@@ -67,7 +73,7 @@ nav ul {
     margin: 1.5rem auto;
 }
 
-p {
+section {
     margin-bottom: 9rem;
     
 }
